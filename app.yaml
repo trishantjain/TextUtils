@@ -1,0 +1,4 @@
+runtime: python310
+
+automatic_scaling:
+  max_instances: 2
