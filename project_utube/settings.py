@@ -25,7 +25,10 @@ SECRET_KEY = "django-insecure-(35@9%7b+rzk(nkbzrx=(#syw(ff7v0u1x-9an+c6*=jq!vscf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'jango-440915.el.r.appspot.com',
+    'textutil.me'
+]
 
 
 # Application definition
